@@ -5,9 +5,6 @@ body{
     text-align: center;
 }
 
-.center{
-    text-align: center;
-}
-.card-list{
-    margin: 50px auto;
+li{
+    padding: 5;
 }
